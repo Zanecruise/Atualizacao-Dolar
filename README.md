@@ -2,7 +2,9 @@
 
 Utilizei a biblioteca Spring Boot.
 
-Log4j para imprimir os resultados.
+Utilizei Log4j para imprimir os resultados.
+
+Utilizei Maven para organizar a estrutura do projeto.
 
 # Como utilizar
 
