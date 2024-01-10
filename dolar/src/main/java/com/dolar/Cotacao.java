@@ -1,6 +1,6 @@
-package com.dolar; // package do projeto
+package com.dolar; // Package do projeto
 
-import org.json.JSONObject; // bibliotecas utilizadas
+import org.json.JSONObject; // Bibliotecas utilizadas
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.scheduling.annotation.EnableScheduling;
