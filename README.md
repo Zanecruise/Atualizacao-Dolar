@@ -1,6 +1,6 @@
 # Atualizacao-Dolar
 
-Utilizei a biblioteca Spring Boot.
+Utilizei a biblioteca Spring Boot para executar o projeto.
 
 Utilizei Log4j para imprimir os resultados.
 
